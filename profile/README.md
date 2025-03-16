@@ -11,6 +11,7 @@ This is a third-party modified AndroidIDE for Chinese community interest enthusi
 - Backend：QinYueQwQ
 - Android Consultant: ColdMint
 - Code Technology:
+- Rosemoe
 - EElainaya
 - CatandA
 - ColdMint
